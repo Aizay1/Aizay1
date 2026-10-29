@@ -46,12 +46,6 @@ Web application built with **HTML, CSS, JavaScript, and PHP**.
 
 ---
 
-## GitHub Stats
-
-![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aizay1&show_icons=true&theme=default&hide_title=false)
-
----
-
 ## 🔗 Connect
 - 🌍 Portfolio: [https://portfolio-someones-projects-33b949d9.vercel.app/]
 - 📧 Email: [mypoint010@gmail.com]
